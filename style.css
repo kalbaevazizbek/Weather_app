@@ -1,0 +1,148 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: black;
+}
+
+.container {
+    position: relative;
+    background: linear-gradient(rgb(6, 6, 150), rgb(92, 3, 92));
+    width: 450px;
+    height: 500px;
+    margin: 0 auto;
+    top: 85px;
+    border-radius: 20px;
+}
+
+.input {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    padding: 0 25px;
+    flex: 1;
+    border: 0;
+    outline: 0;
+    position: relative;
+    top: 20px;
+    left: 20px;
+    margin: 0 auto;
+    width: 270px;
+    border: none;
+    border-radius: 35px;
+    height: 70px;
+}
+
+
+.search button {
+    position: relative;
+    width: 75px;
+    height: 70px;
+    bottom: 50px;
+    left: 355px;
+    border-radius: 42px;
+    border: none;
+}
+
+.fa-map-marker {
+    color: #16232e;
+    position: absolute;
+    font-size: 35px;
+    bottom: 17px;
+    right: 24.5px;
+    margin: 0;
+    text-align: center;
+} 
+
+.img_center img {
+    position: absolute;
+    width: 140px;
+    height: 130px;
+    margin: 0 auto;
+    top: 130px;
+    left: 160px;
+}
+
+.img_center .temp {
+    font-size: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute;
+    margin: 0;
+    top: 270px;
+    font-weight: 900;
+    left: 180px;
+    color: #DBE7C9;
+}
+
+.img_center .city {
+    font-size: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute;
+    margin: 0 auto;
+    top: 330px;
+    font-weight: 900;
+    left: 163px;
+    color: #DBE7C9;
+}
+
+
+.fa-water {
+    color: antiquewhite;
+    font-size: 35px;
+    position: absolute;
+    top: 420px;
+    left: 55px;
+}
+
+.water .text1 p {
+    position: relative;  
+    top: 277px;
+    color: beige;
+    padding: 0 105px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 900;
+    font-size: 13px;
+    margin: 0;
+}
+
+
+.water, .fa-water {
+    padding: 0 21px;
+}
+
+.fa-wind {
+    color: antiquewhite;
+    font-size: 35px;
+    position: absolute;
+    top: 420px;
+    left: 260px;
+}
+
+.wind .text2 .proc2 {
+    position: relative;
+    margin-right: 28px;
+}
+
+.wind .text2 p {
+    left: 17px;
+    position: relative;  
+    top: 241px; 
+    color: beige;
+    padding: 0 58.5px; 
+    text-align: end;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 900;
+    font-size: 13px;
+    margin: 0;
+}
+
+.inner {
+    text-align: center;
+    position: relative;
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+
+
+
+
